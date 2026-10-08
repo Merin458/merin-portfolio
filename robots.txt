@@ -1,0 +1,6 @@
+# robots.txt for Merin P Eldho Portfolio
+# Replace https://merin-p-eldho.vercel.app with your custom domain once connected
+User-agent: *
+Allow: /
+
+Sitemap: https://merin-p-eldho.vercel.app/sitemap.xml

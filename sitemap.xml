@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  Sitemap for Merin P Eldho - Python Full Stack Developer Portfolio
+  Replace 'https://merin-p-eldho.vercel.app' with your custom domain (e.g. https://merinpeldho.com) when launched!
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://merin-p-eldho.vercel.app/</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://merin-p-eldho.vercel.app/assets/cv/Merin-P-Eldho-CV.pdf</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
